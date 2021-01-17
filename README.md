@@ -8,7 +8,7 @@
 ![image](https://github.com/pavertixo/image/blob/main/3.jpg?raw=true)\
 必須利用SKlearn的RandomForestClassifier以及FeatureHasher對資料進行分析
 ### <H1>而執行結果為<H1>
-![image](https://github.com/pavertixo/107ab0752/blob/main/malwareCH8.jpg?raw=true)\
+![image](https://github.com/pavertixo/image/blob/main/2.jpg?raw=true)\
 Statistics: \
 Benign-Files: 991 \
 Malware-Files: 428 \
